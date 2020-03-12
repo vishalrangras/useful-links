@@ -5,3 +5,4 @@ This repo contains links to useful references, documentations and tutorials
 2. https://www.toptal.com/java/rest-security-with-jwt-spring-security-and-java
 3. https://stormpath.com/blog/encode-decode-jwts-jsonwebtokenio
 4. https://github.com/auth0/java-jwt
+5. https://medium.com/@nieldw/caching-maven-dependencies-in-a-docker-build-dca6ca7ad612
